@@ -1,0 +1,1 @@
+Puppet successfully managed this file!
